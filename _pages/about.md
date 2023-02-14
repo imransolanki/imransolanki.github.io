@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. S.No. 234/130, Sanjay Park, Pune. +91 97
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Office No 411, Orville Business Port,</p>
     <p>Viman Nagar</p>
