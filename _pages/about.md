@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. S.No. 234/130, Sanjay Park, Pune. +91 97 630 67 364. "Think.Brainstorm.Design.thenCode"
 
 profile:
   align: right
