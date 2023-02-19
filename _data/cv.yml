@@ -15,18 +15,25 @@
       institution: Nowrosjee Wadia College , Pune
       year: 2010-2012
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Principles of Programming Languages 
+        - Advanced Networking
+        - Distributed Database Concepts
+        - Design and Analysis of Algorithms
+        - Operating Systems
+        - Embedded System 
+        - Mobile Computing
     - title: Bacherlor's of Science (B.Sc.) in Computer Science
       institution: Nowrosjee Wadia College , Pune
       year: 2007-2010
       description:
-        - Description 1.
-        - Description 2.
+        - Programming Fundamentals and languages- C, C++, Java
+        - Data Structures
+        - Computer Organization and Architecture
+        - Object-Oriented Programming and Design
+        - Relational Database Management Systems
+        - Software Engineering
+        - Web Technologies
+        - Electronics, Mathematics & Statistics
 
 - title: Experience
   type: time_table
