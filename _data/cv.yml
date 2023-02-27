@@ -38,35 +38,120 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Digital Pharmacy (Back end development)
+      institution: Medly
+      year: Oct 2021 - Nov 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Medly is a full-service, digital pharmacy that offers free prescription delivery for all types of medications.
+        - I lead the Delivery Platform team which champions effective, efficient ways to store, retrieve, group, and route prescriptions and delivers convenience to patients.
+        - title: Small wins
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Increased delivery from ~42 to 60 under a minute
+            - Improved integration of OnFleet Webhooks to achieve robustness
+            - Built an audit trail for Rx delivery
+            - Improved the logistics operation journey
+            - Architected solution for delivering Rx in the absence of the patient
+            - Reducing 3rd party dependency (PrimeRX)
+        - title: Team Contribution
+          contents:
+            - Coaching and mentoring
+            - Knowledge/Context sharing and finding/prioritising broken windows in Code
+        - title: Company Contribution
+          contents:
+            - Member of different initiatives group - AWG(architectural working group), Engineering Leads sync
+            - Seminar on 'Improve application architecture performance'
+            - Contribution to different RFCs
+        - title: Tech Stack
+          contents:
+            - Kotlin, Micronaut, Amazon Kinesis, Amazon SQS, Gradle, OnFleet, Github actions etc
+            - Followed test pyramid
+            - Alarm and monitoring
+            - Event-Driven Architecture
+            - Serverless
+            - CCD architecture
+
+    - title: UC (Unified communication), CC (Contact center) and services (Back end development)
+      institution: GSLab/Avaya
+      year: Sept 2018 - Oct 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Avaya NGM(Next gen management). Avaya is an American multinational technology company specialising in business communications, specifically unified communications (UC), contact centre (CC), and services.
+        - The project is about the development of NGM products for the CC unit.
+        - Design and implement features using Spring Boot, Kafka and cloud technologies.
+        - Design and implement different CECs (standard engineering criteria).
+        - title: Tech Stack
+          contents:
+            - Spring Boot, Spring AOP, MDC, YAML, Swagger, Rest API, Open API, Kubernetes, JUnit.
+            - Python 2.7, Flask framework, SQLAlchemey, SpringBoot, STS, Maven, Apache Tomcat.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Healthcare, Smart Solutions, Video Surveillance
+      institution: GSLab, SodneHealth, Avaya, Cisco VSOM
+      year: Mar 2016 - Aug 2018
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: IoT
+      institution: GSLab
+      year: Mar 2016 - Aug 2018
       description:
+        - The product that allows creating the perfect ambience at home and can manage electronic appliances.
+        - The overall development of Plug which works on WiFi socket capable of operations like Search/Configure/Add plug, Turn On/Off, Set timing.
+        - The overall development of the Mobile application by designing custom protocol for metering domain and collaborating with cloud & hardware team to develop a protocol that ensures minimum operation time.
+        - title: Tech Stack
+          contents:
+            - OEM Plug SDK, XMPP Protocol, MPAndroid Chart etc
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Bot Development
+      institution: GSLab, Avaya
+      year: Mar 2016 - Aug 2018
+      description:
+        - Created and Integrated Voice and Chatbot for Retail and Smart Mall applications.
+        - title: Tech Stack
+          contents:
+            - XMPP, API.AI
+
+
+    - title: Antivirus application development
+      institution: Spring CT, Quick Heal
+      year: Jun 2012 - Jul 2015
+      description:
+        - he work experience includes creating & managing SmartPhone & Tablet compatible Android applications within the domain of HealthCare,Antivirus, MDM,Smart Home, Audio/Video Calling, Video Surveillance, IoT, DeviceMonitoring etc.
+        - title: Tech Stack
+          contents:
+            - Android SDK, Kotlin, Android NDK, Amazon Cognito SDK, Data Binding, Firebase, GSON
+            - LeakCanary, MVVM, MVP, Retrofit, RxJava, RxAndroid, Material Design, WebRTC
+            - Kaltura, Avaya CSDK, Fitbit APIs, Microsoft Emotion API, Google APIs, FFMPEG, Gradle, Beacon etc
+            - JUnit, Mockito, Espresso
+
+    - title: MDM, BYOD
+      institution: Spring CT, Aruba
+      year: Jun 2012 - Jul 2015
+      description:
+        - Working knowledge of Android MDM applications.
+        - Working knowledge of MDM Policy Server for Samsung and Windows phones.
+        - title: Tech Stack
+          contents:
+            - Samsung Enterprise SDK(3.0,4.0), Samsung Knox SDK, Samsung/Windows MDM Protocols
+            - Python 2.7, Flask Web Service framework, ORM, MySQL database, Sublime Editor, Charles Proxy, Version One, SVN, Bugzilla etc
+
+    - title: Android Automation
+      institution: Spring CT, Quick Heal
+      year: Jun 2012 - Jul 2015
+      description:
+        - Wrote build scripts to automate the build creation process, thereby decreasing the build time drastically
+        - Supporting QA Automation engineer by working as an R&D engineer and to do application profiling
+        - Working knowledge of Android automation framework to test applications during the development process.
+        - This generates a report which gives details about the total number of test cases that passed/failed, memory usage, CPU usage per test case of application etc.
+        - title: Tech Stack
+          contents:
+            - Android Test Framework, TestNG APIs, ADB command line utility etc
+
+    - title: Windows driver development, FLAC encoding
+      institution: Media Magic Technologies
+      year: Jan 2012 - Jul 2012
+      description:
+        - Integrated FLAC encoding scheme into an existing driver
+        - title: Tech Stack
+          contents:
+            - C/C++, Win DDK
+            - WinDBG, Wireshark, MFC
 
 - title: Open Source Projects
   type: time_table
