@@ -38,7 +38,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Digital Pharmacy (Back end development)
+    - title: Digital Pharmacy
       institution: Medly
       year: Oct 2021 - Nov 2022
       description:
@@ -70,7 +70,7 @@
             - Serverless
             - CCD architecture
 
-    - title: UC (Unified communication), CC (Contact center) and services (Back end development)
+    - title: UC (Unified communication), CC (Contact center) and services
       institution: GSLab/Avaya
       year: Sept 2018 - Oct 2021
       description:
