@@ -163,13 +163,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2010
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Won 1st prize in 2010 Tech N Talent Competition for Software Project.
+        - Implemented data mining model to minimize data transfer in distributed environments.
+    - year: 2011
       items: 
-        - Max Planck Medal
+        - Idea shortlisted in Pune's top 25, showcased at 2nd UNIKEN INNOVATION LECTURE SERIES.
+        - Project aimed to reduce city clutter by displaying ads on mobile phones instead of boards.
+        - Network of businesses and customers formed to show ads on AR camera view live.
+    - year: 2017
+      items: 
+        - <a href="https://www.avaya.com/en/about-avaya/newsroom/pr-in-170508/">A team developed an Android-based communication-enabled application using Avaya technology and won first prize in a hackathon.</a>
+        - The app allows for instant communication between patients, service providers, and insurers, improving patient experience.
 
 - title: Academic Interests
   type: nested_list
