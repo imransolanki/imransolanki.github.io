@@ -180,14 +180,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Software Development
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Designing scalable, maintainable, and robust back-end applications
+        - Applying Clean Code practices and design principles such as SOLID, KISS, YAGNI, and DRY
+        - Sharing knowledge and experience through speaking engagements, intern training, and onboarding assistance
 
 - title: Other Interests
   type: list
