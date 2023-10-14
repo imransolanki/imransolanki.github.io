@@ -38,6 +38,22 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Technology Consultant
+      institution: Technogise
+      year: Dec 2022 - Current
+      description:
+        - Technogise is a leading technology consulting and software development company specializing in innovative solutions and cutting-edge software products.
+        - Created a holistic 2023 internship program covering clean code, version control, TDD, agile practices, and team collaboration. Tailored the curriculum to diverse team needs, addressing onboarding challenges and promoting comprehensive development skills.
+        - title: Shippit
+          contents:
+            - Shippit is an Australian-based shipping and logistics company, that simplifies and optimises delivery solutions for businesses.
+            - Collaborated with a diverse range of couriers, including Uber, Hubbed, New Zealand Post, Sherpa, and others. Primarily focused on handling feature requests, and change requests, and providing monitoring and support, enhancing operational efficiency.
+            - Implemented observability and monitoring to proactively detect carrier API errors (HTTP 5xx), enhancing error handling. By evaluating the ratio of 5xx to total API responses per carrier per action within dynamic rolling windows and applying severity- based thresholds, this solution effectively minimizes disruptions, ensuring uninterrupted service for large-scale operations.
+        - title: Tech Stack
+          contents:
+            - Ruby on Rails, Docker, AWS, PostgreSQL, Buildkite, DataDog etc
+            - Observability and monitoring
+
     - title: Digital Pharmacy
       institution: Medly
       year: Oct 2021 - Nov 2022
