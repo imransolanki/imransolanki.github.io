@@ -173,10 +173,15 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/urfave/cli/pull/1969">Shell completions are broken when login shell is different than currently active shell</a>
+      year: 2024
+      description: A simple, fast, and fun package for building command line apps in Go
+    - title: <a href="https://github.com/go-fuego/fuego/pull/189"> Add CI for detecting typos</a>
+      year: 2024
+      description: Golang Fuego - web framework generating OpenAPI 3 spec from source code
     - title: <a href="https://github.com/imransolanki/numbers-every-programmer-must-know">numbers-every-programmer-must-know</a>
       year: 2022-now
       description: The aim of the repository is to provide a collection of performance benchmarks and latency/throughput numbers for various computer operations and components.<br>This is to help developers make informed decisions about system design and performance optimization.
-    
 - title: Honors and Awards
   type: time_table
   contents:
