@@ -43,30 +43,18 @@
       year: Dec 2022 - Current
       description:
         - Technogise is a leading technology consulting and software development company specializing in innovative solutions and cutting-edge software products.
-        - Created a holistic 2023 internship program covering clean code, version control, TDD, agile practices, and team collaboration. Tailored the curriculum to diverse team needs, addressing onboarding challenges and promoting comprehensive development skills.
-        - title: 1) Pine Labs
+        - title: Pine Labs
           contents:
-            - Pine Labs is an Indian company that provides point of sales systems and payment systems.
-        - title: Roles and Responsibilities
+            - Designed and implemented a refund payment system and integrated new payment methods like "Pay by Points" into the existing gateway.
+            - Refactored core systems to support multiple payment modes (Card, Points, UPI, etc.).
+            - Tech Stack= Kotlin, AWS, Redis, PostgreSQL, Kotest, LoyaltyRewards connector.
+        - title: Shippit
           contents:
-            - Design & Implementation of Refund payment system
-            - Design and integrated new mode of payment in the existing payment gateway - Pay by points
-            - Refactor core systems to support payments using one or more payment modes - Card, Card and Points, UPI etc
-        - title: Tech Stack
-          contents:
-          - Kotlin, AWS, LoyltyRewards connector, Kotest, Redis, PostgreSQL
-        - title: 2) Shippit
-          contents:
-            - Shippit is an Australian-based shipping and logistics company, that simplifies and optimises delivery solutions for businesses.
-        - title: Roles and Responsibilities
-          contents:
-            - Collaborated with a diverse range of couriers, including Uber, Hubbed, New Zealand Post, Sherpa, and others. Primarily focused on handling feature requests, and change requests, and providing monitoring and support, enhancing operational efficiency.
-            - Implemented observability and monitoring to proactively detect carrier API errors (HTTP 5xx), enhancing error handling. By evaluating the ratio of 5xx to total API responses per carrier per action within dynamic rolling windows and applying severity- based thresholds, this solution effectively minimizes disruptions, ensuring uninterrupted service for large-scale operations.
-        - title: Tech Stack
-          contents:
-            - Ruby on Rails, Docker, AWS, PostgreSQL, Buildkite, DataDog etc
-            - Observability and monitoring
-
+            - Collaborated with various couriers (Uber, New Zealand Post, etc.) to improve feature and change request handling.
+            - Implemented observability to monitor API errors, reducing disruptions and ensuring smooth large-scale operations.
+            - Tech Stack= Ruby on Rails, Docker, AWS, PostgreSQL, Buildkite, DataDog.
+        - title: Org contribution
+          contents: Led the 2023 internship program, focusing on clean code, version control, TDD, Agile practices, and team collaboration. Customized the curriculum to address onboarding challenges and promote holistic development.
     - title: Digital Pharmacy
       institution: Medly
       year: Oct 2021 - Nov 2022
