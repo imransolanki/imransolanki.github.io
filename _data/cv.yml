@@ -129,7 +129,7 @@
       institution: Spring CT, Quick Heal
       year: Jun 2012 - Jul 2015
       description:
-        - he work experience includes creating & managing SmartPhone & Tablet compatible Android applications within the domain of HealthCare,Antivirus, MDM,Smart Home, Audio/Video Calling, Video Surveillance, IoT, DeviceMonitoring etc.
+        - The work experience includes creating & managing SmartPhone & Tablet compatible Android applications within the domain of HealthCare,Antivirus, MDM,Smart Home, Audio/Video Calling, Video Surveillance, IoT, DeviceMonitoring etc.
         - title: Tech Stack
           contents:
             - Android SDK, Kotlin, Android NDK, Amazon Cognito SDK, Data Binding, Firebase, GSON
@@ -185,19 +185,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2010
+    - year: 2017
       items: 
-        - Won 1st prize in 2010 Tech N Talent Competition for Software Project.
-        - Implemented data mining model to minimize data transfer in distributed environments.
+        - <a href="https://www.avaya.com/en/about-avaya/newsroom/pr-in-170508/">A team developed an Android-based communication-enabled application using Avaya technology and won first prize in a hackathon.</a>
+        - The app allows for instant communication between patients, service providers, and insurers, improving patient experience.
     - year: 2011
       items: 
         - Idea shortlisted in Pune's top 25, showcased at 2nd UNIKEN INNOVATION LECTURE SERIES.
         - Project aimed to reduce city clutter by displaying ads on mobile phones instead of boards.
         - Network of businesses and customers formed to show ads on AR camera view live.
-    - year: 2017
+    - year: 2010
       items: 
-        - <a href="https://www.avaya.com/en/about-avaya/newsroom/pr-in-170508/">A team developed an Android-based communication-enabled application using Avaya technology and won first prize in a hackathon.</a>
-        - The app allows for instant communication between patients, service providers, and insurers, improving patient experience.
+        - Won 1st prize in 2010 Tech N Talent Competition for Software Project.
+        - Implemented data mining model to minimize data transfer in distributed environments.
 
 - title: Academic Interests
   type: nested_list
