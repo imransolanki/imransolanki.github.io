@@ -43,12 +43,12 @@
       year: Dec 2022 - Current
       description:
         - Technogise is a leading technology consulting and software development company specializing in innovative solutions and cutting-edge software products.
-        - title: Pine Labs
+        - title: <a href="https://www.pinelabs.com/">Pine Labs</a>
           contents:
             - Designed and implemented a refund payment system and integrated new payment methods like "Pay by Points" into the existing gateway.
             - Refactored core systems to support multiple payment modes (Card, Points, UPI, etc.).
             - Tech Stack= Kotlin, AWS, Redis, PostgreSQL, Kotest, LoyaltyRewards connector.
-        - title: Shippit
+        - title: <a href="https://www.shippit.com/">Shippit</a>
           contents:
             - Collaborated with various couriers (Uber, New Zealand Post, etc.) to improve feature and change request handling.
             - Implemented observability to monitor API errors, reducing disruptions and ensuring smooth large-scale operations.
@@ -56,7 +56,7 @@
         - title: Org contribution
           contents: Led the 2023 internship program, focusing on clean code, version control, TDD, Agile practices, and team collaboration. Customized the curriculum to address onboarding challenges and promote holistic development.
     - title: Digital Pharmacy
-      institution: Medly
+      institution: <a href="https://en.wikipedia.org/wiki/Medly_Pharmacy">Medly</a>
       year: Oct 2021 - Nov 2022
       description:
         - Medly is a full-service, digital pharmacy that offers free prescription delivery for all types of medications.
@@ -88,7 +88,7 @@
             - CCD architecture
 
     - title: UC (Unified communication), CC (Contact center) and services
-      institution: GSLab/Avaya
+      institution: <a href="https://www.gavstech.com/about-us/legacy-brands/">GSLab</a>/<a href="https://www.avaya.com/en/">Avaya</a>
       year: Sept 2018 - Oct 2021
       description:
         - Avaya NGM(Next gen management). Avaya is an American multinational technology company specialising in business communications, specifically unified communications (UC), contact centre (CC), and services.
@@ -101,11 +101,11 @@
             - Python 2.7, Flask framework, SQLAlchemey, SpringBoot, STS, Maven, Apache Tomcat.
 
     - title: Healthcare, Smart Solutions, Video Surveillance
-      institution: GSLab, SodneHealth, Avaya, Cisco VSOM
+      institution: <a href="https://www.gavstech.com/about-us/legacy-brands/">GSLab</a>, <a href="https://www.sondehealth.com/">SodneHealth</a>, <a href="https://www.avaya.com/en/">Avaya</a>, <a href="https://www.cisco.com/c/en/us/support/physical-security/video-surveillance-manager/series.html">Cisco VSOM</a>
       year: Mar 2016 - Aug 2018
 
     - title: IoT
-      institution: GSLab
+      institution: <a href="https://www.gavstech.com/about-us/legacy-brands/">GSLab</a>
       year: Mar 2016 - Aug 2018
       description:
         - The product that allows creating the perfect ambience at home and can manage electronic appliances.
@@ -116,7 +116,7 @@
             - OEM Plug SDK, XMPP Protocol, MPAndroid Chart etc
 
     - title: Bot Development
-      institution: GSLab, Avaya
+      institution: <a href="https://www.gavstech.com/about-us/legacy-brands/">GSLab</a>/<a href="https://www.avaya.com/en/">Avaya</a>
       year: Mar 2016 - Aug 2018
       description:
         - Created and Integrated Voice and Chatbot for Retail and Smart Mall applications.
@@ -126,7 +126,7 @@
 
 
     - title: Antivirus application development
-      institution: Spring CT, Quick Heal
+      institution: <a href="https://springct.com/">Spring CT</a>, <a href="https://www.quickheal.co.in/">Quick Heal</a>
       year: Jun 2012 - Jul 2015
       description:
         - The work experience includes creating & managing SmartPhone & Tablet compatible Android applications within the domain of HealthCare,Antivirus, MDM,Smart Home, Audio/Video Calling, Video Surveillance, IoT, DeviceMonitoring etc.
@@ -138,7 +138,7 @@
             - JUnit, Mockito, Espresso
 
     - title: MDM, BYOD
-      institution: Spring CT, Aruba
+      institution: <a href="https://springct.com/">Spring CT</a>, <a href="https://www.arubanetworks.com/">Aruba</a>
       year: Jun 2012 - Jul 2015
       description:
         - Working knowledge of Android MDM applications.
@@ -149,7 +149,7 @@
             - Python 2.7, Flask Web Service framework, ORM, MySQL database, Sublime Editor, Charles Proxy, Version One, SVN, Bugzilla etc
 
     - title: Android Automation
-      institution: Spring CT, Quick Heal
+      institution: <a href="https://springct.com/">Spring CT</a>, <a href="https://www.quickheal.co.in/">Quick Heal</a>
       year: Jun 2012 - Jul 2015
       description:
         - Wrote build scripts to automate the build creation process, thereby decreasing the build time drastically
@@ -161,7 +161,7 @@
             - Android Test Framework, TestNG APIs, ADB command line utility etc
 
     - title: Windows driver development, FLAC encoding
-      institution: Media Magic Technologies
+      institution: <a href="https://www.crunchbase.com/organization/media-magic-technologies">Media Magic Technologies</a>
       year: Jan 2012 - Jul 2012
       description:
         - Integrated FLAC encoding scheme into an existing driver
