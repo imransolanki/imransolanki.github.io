@@ -43,6 +43,11 @@
       year: Dec 2022 - Current
       description:
         - Technogise is a leading technology consulting and software development company specializing in innovative solutions and cutting-edge software products.
+        - title: <a href="https://www.peakxv.com//">Peak XV</a>
+          contents:
+            - Led the end-to-end modernization of a large Classic ASP application to ASP.NET Core MVC, improving migration efficiency by 50–70% using LLMs like ChatGPT and Gemini for code translation and refactoring.
+            - Collaborated with cross-functional teams and managed stakeholders to ensure alignment, minimize disruption, and deliver incremental value using the Strangler Fig approach.
+            - Tech Stack= .Net Core MVC, RazorViews, Github Actions, AWS, MSSql Server etc
         - title: <a href="https://www.pinelabs.com/">Pine Labs</a>
           contents:
             - Designed and implemented a refund payment system and integrated new payment methods like "Pay by Points" into the existing gateway.
